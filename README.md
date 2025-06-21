@@ -23,7 +23,7 @@ JuliaTokai \#22
 + LLVMベースJITで高速
 + 最新版：v1.11.5（2025-04-14）
 + LTS：v1.10.9（2025-03-10）
-+ 次期版：v1.12.0-beta3（2025-03-12）
++ 次期版：v1.12.0-beta4（2025-06-05）
 
 ----
 
@@ -54,6 +54,7 @@ Note:
 
 ## 本日の発表
 
++ antimon2: 関数型まつりレポート
 + ごまふあざらし: [UnofficialJuliaDoc-ja](https://github.com/AtelierArith/UnofficialJuliaDoc-ja) の紹介と [ClaudeCodeSDK.jl](https://github.com/AtelierArith/ClaudeCodeSDK.jl) 作ってみた
 
 ---

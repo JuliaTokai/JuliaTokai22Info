@@ -54,7 +54,7 @@ Note:
 
 ## 本日の発表
 
-+ TBA
++ ごまふあざらし: [UnofficialJuliaDoc-ja](https://github.com/AtelierArith/UnofficialJuliaDoc-ja) の紹介と [ClaudeCodeSDK.jl](https://github.com/AtelierArith/ClaudeCodeSDK.jl) 作ってみた
 
 ---
 
